@@ -1,13 +1,13 @@
-package com.kodo.appointmentmanagementsystem;
+package com.kodo.inventorysystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AppointmentManagementSystemApplication {
+public class InventorySystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AppointmentManagementSystemApplication.class, args);
+		SpringApplication.run(InventorySystemApplication.class, args);
 	}
 
 }
